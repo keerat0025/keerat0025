@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**keerat0025/keerat0025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there , Keerat this side ! 👋  
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! Here's a little about me:  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 About Me  
+- **👨‍💻 Second-Year BTech Student**  
+- **🚀 Passionate about:**  
+  - Programming  
+  - Building cool projects  
+  - Learning new technologies    
+
+### 🛠️ Technologies I Work With  
+- **Languages:** C++, C  
+- **Tools & Platforms:** Git GitHub, VS Code  
+
+### 🔭 What I’m Currently Working On  
+- Sharpening my skills in Data structure , learning new languages.    
+
+### 📫 Connect With Me  
+- Email: [Email](keeratpreetkaur2005@gmail.com) 
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/keeratpreet-kaur-087b0a294/) 
+- Twitter: [Twitter Profile](https://x.com/KaurKeeratpreet)
