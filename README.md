@@ -11,7 +11,7 @@ Welcome to my GitHub profile! Here's a little about me:
   - Learning new technologies    
 
 ### 🛠️ Technologies I Work With  
-- **Languages:** C++, C  
+- **Languages:** C++, C , HTML, CSS, JavaScript 
 - **Tools & Platforms:** Git GitHub, VS Code  
 
 ### 🔭 What I’m Currently Working On  
