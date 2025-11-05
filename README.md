@@ -4,7 +4,7 @@
 Welcome to my GitHub profile! Here's a little about me:  
 
 ### 📌 About Me  
-- **👨‍💻 Second-Year BTech Student**  
+- **👨‍💻 Third-Year BTech Student**  
 - **🚀 Passionate about:**  
   - Programming  
   - Building cool projects  
